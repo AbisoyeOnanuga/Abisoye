@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dottymatrix (Abisoye)
-- 👀 I’m interested in ... Design and computer graphics
-- 🌱 I’m currently learning ... Unreal Engine, design principles and 3d modelling
-- 💞️ I’m looking to collaborate on ... worthwhile projects.
+- 👀 I’m interested in ... Design and computer graphics 
+- 🌱 I’m currently learning ... how to learn
 - 📫 How to reach me ... <a href=https://www.twitter.com/abisoyeOnanuga>Twitter</a> and <a href=https://www.instagram.com/abisoye_onanuga/>Instagram</a>
 
 <!---
