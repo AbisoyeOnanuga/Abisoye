@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dottymatrix (Abisoye)
-- 👀 I’m interested in ... Design and computer graphics 
+- 👀 I’m interested in ... Front End Engineering, 3D modelling and computer graphics 
 - 🌱 I’m currently learning ... how to learn
 - 📫 How to reach me ... <a href=https://www.twitter.com/abisoyeOnanuga>Twitter</a> and <a href=https://www.instagram.com/abisoye_onanuga/>Instagram</a>
 
