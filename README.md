@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dottymatrix (Abisoye)
+- 👋 Hi, I’m Abisoye
 - 👀 I’m interested in ... Procedural modelling tools, Scripting, computer graphic, and Front End Engineering 
 - 🌱 I’m currently learning ... how to learn
 - 📫 How to reach me ... <a href=https://www.twitter.com/abisoyeOnanuga>Twitter</a> and <a href=https://www.instagram.com/abisoye_onanuga/>Instagram</a>
@@ -19,7 +19,7 @@
 </p> 
 
 # 📊GitHub Stats :
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dottymatrix&theme=react&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AbisoyeOnanuga&theme=react&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dottymatrix&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 <!---
