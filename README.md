@@ -20,9 +20,9 @@
 
 # 📊GitHub Stats :
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AbisoyeOnanuga&theme=react&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dottymatrix&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbisoyeOnanuuga&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 <!---
-dottymatrix/dottymatrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AbisoyeOnanuga/Abisoye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
