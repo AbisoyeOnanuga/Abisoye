@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abisoye
-- 👀 I’m interested in ... Procedural modelling tools, Scripting, computer graphic, and Front End Engineering 
+- 👀 I’m interested in ... Procedural modelling tools, Scripting, computer graphics.
 - 🌱 I’m currently learning ... how to learn
 - 📫 How to reach me ... <a href=https://www.twitter.com/abisoyeOnanuga>Twitter</a> and <a href=https://www.instagram.com/abisoye_onanuga/>Instagram</a>
 
