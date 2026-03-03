@@ -22,12 +22,13 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">  <img src="https://img.shields.io/badge/Solidity-%23363636.svg" alt="Solidity" width="40" height="40"/> </a> 
 -->
-</p> 
+</p>
 
+<!--
 # 📊GitHub Stats :
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AbisoyeOnanuga&theme=react&hide_border=false)<br/> -->
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=AbisoyeOnanuga&theme=react&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbisoyeOnanuga&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
+-->
 <!---
 AbisoyeOnanuga/Abisoye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
